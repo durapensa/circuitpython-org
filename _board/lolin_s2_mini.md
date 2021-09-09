@@ -16,6 +16,7 @@ features:
 
 - ESP32-S2FN4R2 WiFi SoC
     - Xtensa® single-core 32-bit LX7 microprocessor, up to 240 MHz
+    - RISC-V ULP Coprocessor
     - 320 KB SRAM
     - 4 MB Flash
     - 2 MB PSRAM
